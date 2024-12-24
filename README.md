@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hello :wave:
 
-<!--
-**marklechner/marklechner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mark Lechner. I'm a security-focused technology leader.
 
-Here are some ideas to get you started:
+My interests are:
+- Tehcnology in general 🧑‍💻
+- Cyber Security 🔒
+- AI/ML 🤖
+- Python 🐍
+- Cat 🐈‍⬛
+- Books 📚
+- Bread making 🍞
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some links about me:
+- [Blog](https://marklechner.github.io)
+- [LinkedIn](https://www.linkedin.com/in/mark-lechner/)
