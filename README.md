@@ -1,6 +1,12 @@
 ### Hello :wave:
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mark-lechner/)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://marklechner.github.io)](https://marklechner.github.io)
+[![Github](https://img.shields.io/github/followers/deadbits?label=Follow&style=social)](https://github.com/marklechner)
+
 My name is Mark Lechner. I'm a security-focused technology leader.
+
+🔭 I’m currently hacking on security for large language models
 
 My interests are:
 - Tehcnology in general 🧑‍💻
@@ -10,7 +16,3 @@ My interests are:
 - Cat 🐈‍⬛
 - Books 📚
 - Bread making 🍞
-
-Here are some links about me:
-- [Blog](https://marklechner.github.io)
-- [LinkedIn](https://www.linkedin.com/in/mark-lechner/)
