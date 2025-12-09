@@ -6,8 +6,6 @@
 
 My name is Mark Lechner. I'm a security-focused technology leader.
 
-🔭 I’m currently working on security for large language models
-
 My interests are:
 - Tehcnology in general 🧑‍💻
 - Cyber Security 🔒
